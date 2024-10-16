@@ -1,0 +1,5 @@
+numpy
+dash
+plotly
+pandas
+scikit-image
